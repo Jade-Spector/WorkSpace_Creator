@@ -1,2 +1,2 @@
-# WorkSpace_Creator
-Creates a workspace for the user.
+# Ghostly WorkSpace Creator
+Creates a workspace for personal projects.

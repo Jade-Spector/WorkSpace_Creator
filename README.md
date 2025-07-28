@@ -1,5 +1,5 @@
 Thank you for using the Ghostly WorkSpace Creator
-Developer by Jade-Spector
+Developed by Jade-Spector
 Creates a workspace for personal projects.
 
 How To Use:
